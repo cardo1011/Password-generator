@@ -1,2 +1,17 @@
 # Password-generator
-Replacing password generator since there was an issue with the og repo 
+
+## Description
+
+- Creating a random password for the user
+- having prompt and confirm windows appear with criteria for the password 
+- generating a password based of the input 
+- displaying new password on screen 
+
+
+## Usage
+
+Generating a random password for the user with different characters 
+
+## Credits
+
+N/A
