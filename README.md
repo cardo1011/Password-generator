@@ -12,6 +12,7 @@
 
 Generating a random password for the user with different characters 
 
-## Credits
+## Link
+https://cardo1011.github.io/Password-generator/
 
 N/A
